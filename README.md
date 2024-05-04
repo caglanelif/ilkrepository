@@ -1,4 +1,4 @@
-# ilkreository
+# ilkrepository
 
 -Git & Github kursu oluşturduğumuz ilk repositoy 
  
