@@ -1,4 +1,5 @@
 # ilkreository
 
--Git & Github kursu oluşturduğumuz il repositoy 
+-Git & Github kursu oluşturduğumuz ilk repositoy 
  
+ git ve github öğreniyorum ikinci kısım .
